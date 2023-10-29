@@ -217,3 +217,85 @@ span {
 .prices_try {
     margin-left: 135px;
 }
+
+.content_support {
+    width: 1903px;
+    height: 815px;
+    background-image: url("../img/background_support.jpg");
+}
+
+.contacts {
+    font-family: Montserrat;
+    color: white;
+}
+
+.contacts_heading1, .contacts_heading2 {
+    font-size: 48px;
+    margin-left: 120px;
+}
+
+.contacts_heading1 {
+    padding-top: 100px;
+}
+
+.contacts_email, .contacts_tg {
+    font-size: 36px;
+    margin-left: 120px;
+}
+
+.contacts_email {
+    margin-top: 50px;
+}
+
+.contacts_tg {
+    margin-top: 15px;
+}
+
+.content_opportunities {
+    padding-left: 150px;
+    height: 815px;
+    background-image: url("../img/background_opportunities.jpg");
+}
+
+.opportunities_heading, .opportunities_heading2,
+.opportunity_description, .impression {
+    font-family: Montserrat;
+    color: white;
+}
+
+.opportunities_heading {
+    padding-top: 30px;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.opportunities_heading2 {
+    margin-top: 20px;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.opportunity_description {
+    margin-top: 15px;
+    font-size: 24px;
+}
+
+.impression {
+    margin-top: 30px;
+    font-size: 36px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.link_tariffs {
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 36px;
+    padding: 10px 15px;
+    border-radius: 30px;
+    background: linear-gradient(180deg, #BA216B 0%, #FF8AC2 100%);
+}
+
+a, button {
+    font-weight: 700;
+}
